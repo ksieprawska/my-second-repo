@@ -1,0 +1,42 @@
+html{
+    font-size: 18px
+}
+html{
+    font-family: 'EB Garamond', sans-serif;
+}
+h1{
+    font-size: 30px
+}
+h2{
+    font-size: 25px
+}
+h3{
+    font-size: 20px
+}
+h4{
+    font-size: 18px
+}
+h5{
+    font-size: 12px
+}
+h6{
+    font-size: 11px
+}
+a {
+    color: rgb(100, 166, 144);
+    }
+a:hover{
+    color: rgb(112, 133, 177);
+    }
+p:hover{
+    color: rgb(163, 27, 173);
+}
+.box{
+    color: rgb(69, 3, 3)
+}
+.box h2{
+    color: rgb(186, 142, 197)
+}
+section > p {
+    color: rgb(211, 130, 130);
+}
